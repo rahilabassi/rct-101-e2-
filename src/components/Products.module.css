@@ -1,0 +1,13 @@
+.main{
+    display: grid;
+    grid-template-columns: repeat(3, 400px);
+}
+
+.box{
+    margin-right: 30px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    overflow: hidden;
+}
